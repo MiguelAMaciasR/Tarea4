@@ -38,7 +38,7 @@ public class LibreriaMaciasRodriguezMiguelAngel2425T4 {
      * Obtiene el precio del libro.
      * @return Precio unitario del libro
      */
-    public double obtenerPrecio(){
+    public double obtenerPrecio(){//
         return getPrecio();
     }
      /**
