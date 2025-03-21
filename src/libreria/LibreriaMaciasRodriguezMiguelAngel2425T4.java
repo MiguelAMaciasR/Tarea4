@@ -24,7 +24,7 @@ public class LibreriaMaciasRodriguezMiguelAngel2425T4 {
         this.nom = nom;                 //Nombre del libro
         this.cantidad = cantidad;       //Cantidad de ejemplares que hay en stock
         this.precio = precio;           //Precio unitario del libro
-        this.saldo = saldo;             //Saldo en la cuenta de la librería hola
+        this.saldo = saldo;             //Saldo en la cuenta de la librería holaa
     }
     
     /**
