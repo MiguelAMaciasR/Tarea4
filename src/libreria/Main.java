@@ -6,7 +6,7 @@ package libreria;
 public class Main {
   
     public static void main(String[] args) {
-        LibreriaMaciasRodriguezMiguelAngel2425T4 miLibreriaMaciasRodriguezMiguelAngel2425T4;
+        LibreriaMaciasRodriguezMiguelAngel2425T4 miLibreriaMaciasRodriguezMiguelAngel2425T4;//
         String x;
         int stock;
         int num;
