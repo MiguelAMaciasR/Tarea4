@@ -12,7 +12,7 @@ public class LibreriaMaciasRodriguezMiguelAngel2425T4 {
     /**
      * Constructor sin argumentos.
      */
-    public LibreriaMaciasRodriguezMiguelAngel2425T4(){}
+    public LibreriaMaciasRodriguezMiguelAngel2425T4(){}//hola
      /**
      * Constructor con parámetros para inicializar las propiedades de la clase.
      * @param nom Nombre del libro
