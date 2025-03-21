@@ -12,7 +12,7 @@ public class LibreriaMaciasRodriguezMiguelAngel2425T4 {
     /**
      * Constructor sin argumentos.
      */
-    public LibreriaMaciasRodriguezMiguelAngel2425T4(){}//hola
+    public LibreriaMaciasRodriguezMiguelAngel2425T4(){}
      /**
      * Constructor con parámetros para inicializar las propiedades de la clase.
      * @param nom Nombre del libro
@@ -32,7 +32,7 @@ public class LibreriaMaciasRodriguezMiguelAngel2425T4 {
      * @return Nombre del libro
      */
     public String obtenerNombre(){
-        return getNom();//  Te da el return con
+        return getNom();
     }
        /**
      * Obtiene el precio del libro.
