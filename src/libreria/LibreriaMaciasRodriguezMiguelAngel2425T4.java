@@ -32,7 +32,7 @@ public class LibreriaMaciasRodriguezMiguelAngel2425T4 {
      * @return Nombre del libro
      */
     public String obtenerNombre(){
-        return getNom();//  Te da el return
+        return getNom();//  Te da el return con
     }
        /**
      * Obtiene el precio del libro.
